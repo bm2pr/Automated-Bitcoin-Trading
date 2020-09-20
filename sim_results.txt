@@ -1,0 +1,51 @@
+Date: May31	Span: 144	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.49	Final amount is: 9.989879960109562	Number of trades: 1
+Date: June02	Span: 144	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.49	Final amount is: 9.903531673707453	Number of trades: 6
+
+Date: May31	Span: 144	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.51	Final amount is: 9.989879960109562	Number of trades: 1
+Date: June02	Span: 144	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.51	Final amount is: 9.907585721365933	Number of trades: 6
+
+Date: May31	Span: 78	Buy EMA Min: -0.71	Buy EMA Max: -0.69	Sell EMA: 0.56	Final amount is: 9.981386960771625	Number of trades: 1
+Date: June02	Span: 78	Buy EMA Min: -0.71	Buy EMA Max: -0.69	Sell EMA: 0.56	Final amount is: 9.725053785591697	Number of trades: 15
+
+Date: May31	Span: 78	Buy EMA Min: -0.61	Buy EMA Max: -0.59	Sell EMA: 0.45	Final amount is: 10.04411714795736	Number of trades: 4
+Date: June02	Span: 78	Buy EMA Min: -0.61	Buy EMA Max: -0.59	Sell EMA: 0.45	Final amount is: 9.81600435574431	Number of trades: 14
+
+Date: May31	Span: 78	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.51	Final amount is: 10.071898874726882	Number of trades: 2
+Date: June02	Span: 78	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.51	Final amount is: 9.235759592277867	Number of trades: 23
+
+Date: May31	Span: 89	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.49	Final amount is: 9.978069368113808	Number of trades: 1
+Date: June02	Span: 89	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.49	Final amount is: 9.842169717457585	Number of trades: 15
+
+Date: May31	Span: 89	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.61	Final amount is: 9.978069368113808	Number of trades: 1
+Date: June02	Span: 89	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.61	Final amount is: 9.809920745486588	Number of trades: 13
+
+Date: May31	Span: 89	Buy EMA Min: -0.71	Buy EMA Max: -0.69	Sell EMA: 0.61	Final amount is: 9.989879960109562	Number of trades: 1
+Date: June02	Span: 89	Buy EMA Min: -0.71	Buy EMA Max: -0.69	Sell EMA: 0.61	Final amount is: 9.289276461339355	Number of trades: 10
+
+Date: May31	Span: 55	Buy EMA Min: -0.61	Buy EMA Max: -0.59	Sell EMA: 0.4	Final amount is: 9.993589567865177	Number of trades: 2
+Date: June02	Span: 55	Buy EMA Min: -0.61	Buy EMA Max: -0.59	Sell EMA: 0.4	Final amount is: 9.479018149892942	Number of trades: 30
+
+Date: May31	Span: 55	Buy EMA Min: -0.71	Buy EMA Max: -0.69	Sell EMA: 0.4	Final amount is: 10.011559599253202	Number of trades: 2
+Date: June02	Span: 55	Buy EMA Min: -0.71	Buy EMA Max: -0.69	Sell EMA: 0.4	Final amount is: 9.895978796967555	Number of trades: 16
+
+Date: May31	Span: 55	Buy EMA Min: -0.81	Buy EMA Max: -0.79	Sell EMA: 0.4	Final amount is: 10	Number of trades: 0
+Date: June02	Span: 55	Buy EMA Min: -0.81	Buy EMA Max: -0.79	Sell EMA: 0.4	Final amount is: 9.858322762261622	Number of trades: 14
+
+Date: May31	Span: 55	Buy EMA Min: -0.81	Buy EMA Max: -0.79	Sell EMA: 0.6	Final amount is: 10	Number of trades: 0
+Date: June02	Span: 55	Buy EMA Min: -0.81	Buy EMA Max: -0.79	Sell EMA: 0.6	Final amount is: 9.86088835295482	Number of trades: 12
+
+Date: May31	Span: 55	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.49	Final amount is: 10.004636486042735	Number of trades: 4
+Date: June02	Span: 55	Buy EMA Min: -0.51	Buy EMA Max: -0.49	Sell EMA: 0.49	Final amount is: 9.353304818763876	Number of trades: 42
+
+Date: May31	Span: 78	Buy EMA Min: -0.58	Buy EMA Max: -0.56	Sell EMA: 0.45	Final amount: 10	Num trades: 0
+Date: June02	Span: 78	Buy EMA Min: -0.58	Buy EMA Max: -0.56	Sell EMA: 0.45	Final amount: 9.304317744356581	Num trades: 17
+
+Date: May31	Span: 78	Buy EMA Min: -0.61	Buy EMA Max: -0.59	Sell EMA: 0.5	Final amount: 10.083177052912804	Num trades: 3
+Date: June02	Span: 78	Buy EMA Min: -0.61	Buy EMA Max: -0.59	Sell EMA: 0.5	Final amount: 9.805287678636036	Num trades: 14
+
+Date: May31	Span: 78	Buy EMA Min: -0.63	Buy EMA Max: -0.61	Sell EMA: 0.45	Final amount: 10.018179427158676	Num trades: 2
+Date: June02	Span: 78	Buy EMA Min: -0.63	Buy EMA Max: -0.61	Sell EMA: 0.45	Final amount: 9.896163347753635	Num trades: 18
+
+Date: May31	Span: 78	Buy EMA Min: -0.61	Buy EMA Max: -0.59	Sell EMA: 0.55	Final amount: 9.981386960771625	Num trades: 1
+Date: June02	Span: 78	Buy EMA Min: -0.61	Buy EMA Max: -0.59	Sell EMA: 0.55	Final amount: 9.814726679488675	Num trades: 14
+
